@@ -1,1 +1,1 @@
-# Manipulating the DOM tree. <li> tag
+# Tag <code><li></li></code>. 
